@@ -21,7 +21,7 @@ public class MainActivity extends Activity implements View.OnClickListener{
 	 TextView Firsttextview;
 	 TextView Secondtextview;
 	 TextView Thirdtextview;
-	
+	////// change
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
